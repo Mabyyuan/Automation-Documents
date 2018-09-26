@@ -1,0 +1,37 @@
+Appium Studio
+---
+
+Appium / Selenium
+
+Android / iOS
+
+---
+
+Install
+
+Tools : iOS Provision Profile Management
+
+Add Device
+
+Test App / .ipa / Sample app
+
+DesireCapabilities
+
+Record / Play : Run / Run with Capability
+
+Find Elements
+
+Command List
+
+Java Code
+
+Merge to Appium Java code:
+
+https://docs.experitest.com/display/public/AS/Run+your+existing+Appium+tests
+
+
+---
+
+https://experitest.com/appium-studio/
+
+https://docs.experitest.com/display/public/AS/Appium+Studio
